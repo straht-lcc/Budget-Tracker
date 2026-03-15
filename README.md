@@ -6,8 +6,8 @@ This program asks the user for their monthly budget and will let them add expens
 ---
 
 ## Videos
-- [Code Demo]
-- [Code Walkthrough]
+- [Code Demo] - (https://youtu.be/mJZmS3vGu_A)
+- [Code Walkthrough] - (https://youtu.be/XQPwRvnh_Ko)
 
 ## How to Run
 1. Download `budget_tracker.py`
